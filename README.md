@@ -1,5 +1,5 @@
 # Phishing_rod
-This Phishing detector is made for gmail.
+This is a gmail Phishing detector.
 
 If you are having issues:
 
